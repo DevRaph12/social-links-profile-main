@@ -23,11 +23,15 @@ Users should be able to:
 
 ### Screenshot
 
+![Desktop view Solution](assets/images/desktop-solution.png)
 
+![Mobile view Solution](assets/images/mobile-solution.png)
+
+![Active states Solution](assets/images/active-states-solution.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL:(https://devraph12.github.io/social-links-profile-main/)
 
 
 
@@ -36,25 +40,15 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-
-
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Great exercise to learn element position, relationship between divs and elements, I learned how to manipulate the elements using Flexbox, also how to make them look amazing with padding and margin, as well as giving these elements different sizes acoording to the screen size.
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Linkedin - [Raphael Almeida](https://www.linkedin.com/in/raphael-almeida-dev12)
+- Frontend Mentor - [@DevRaph12](https://www.frontendmentor.io/profile/DevRaph12)
+
