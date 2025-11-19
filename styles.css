@@ -1,14 +1,16 @@
-*, html, body{
+*,
+html,
+body {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-html{
+html {
     font-size: 62.5%;
 }
 
-body{
+body {
     font-family: "Inter", sans-serif;
     background-color: hsl(0, 0%, 8%);
     min-height: 100vh;
@@ -18,35 +20,36 @@ body{
     align-items: center;
 }
 
-.profile-img{
+.profile-img {
     border-radius: 50%;
 }
 
-h1, li{
+h1,
+li {
     color: hsl(0, 0%, 100%);
     font-weight: 700;
 }
 
-.sub-title{
+.sub-title {
     color: hsl(0, 0%, 100%);
     margin-top: 2.2rem;
     font-size: 1.2rem;
     font-weight: 400;
 }
 
-.social-links{
+.social-links {
     margin-top: 2.2rem;
-    
+
 }
 
-.location{
+.location {
     color: hsl(75, 94%, 57%);
     margin-top: 1rem;
     font-size: 1.2rem;
     font-weight: 600;
 }
 
-li{
+li {
     list-style-type: none;
     background-color: hsl(0, 0%, 20%);
     height: 3.8rem;
@@ -54,21 +57,22 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 1.2rem;;
+    font-size: 1.2rem;
+    ;
     margin-top: 1.6rem;
     border-radius: 0.5rem;
-    
+
 }
 
-.social-card{
+.social-card {
     border-radius: 3%;
 }
 
-img{
+img {
     width: 7.5rem;
 }
 
-.social-card{
+.social-card {
     background-color: hsl(0, 0%, 12%);
     text-align: center;
     padding: 1rem;
@@ -79,71 +83,69 @@ img{
     padding-bottom: 50rem;
     margin-bottom: 2rem;
     margin-top: 4rem;
-    
+
 }
 
-img{
+img {
     margin-top: 1rem;
 }
 
-h1{
+h1 {
     margin-top: 2.2rem;
     font-size: 2rem;
 }
 
-.attribution{
+.attribution {
     color: hsl(0, 0%, 100%);
     margin: 0;
     padding: 0 3rem;
-    
+
 }
 
-.attribution a{
+.attribution a {
     color: hsl(75, 94%, 57%);
 }
 
 
-li:hover{
+li:hover {
     background-color: hsl(75, 94%, 57%);
     color: hsl(0, 0%, 8%);
     cursor: pointer;
 }
 
 @media screen and (min-width: 376px) {
-    .social-card{
-       max-width: 28rem;
+    .social-card {
+        max-width: 28rem;
         padding: 1.8rem;
-       
+
     }
 
-   h1{
-    font-size: 1.7rem;
-    margin-top: 2rem;
-   }
+    h1 {
+        font-size: 1.7rem;
+        margin-top: 2rem;
+    }
 
-   li{
-    font-size: 1rem;
-    height: 3.2rem;
-    margin: 1.2rem;
-   }
+    li {
+        font-size: 1rem;
+        height: 3.2rem;
+        margin: 1.2rem;
+    }
 
-   p, .location{
-    font-size: 1rem;
-    
-   }
+    p,
+    .location {
+        font-size: 1rem;
 
-   .location{
-    margin-top: 0.9rem;
-   }
+    }
 
-   img{
-    width: 6.4rem;
-   }
+    .location {
+        margin-top: 0.9rem;
+    }
 
-   
+    img {
+        width: 6.4rem;
+    }
 
-    
+
+
+
 }
-
-
-
